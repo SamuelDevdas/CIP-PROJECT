@@ -2,3 +2,5 @@ venv-geo
 .vscode
 .history
 .mypy_cache
+clean-elevation-data.csv
+clean-coordinates-data.csv
